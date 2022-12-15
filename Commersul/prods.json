@@ -1,29 +1,34 @@
-{
-    "Nome: ": "Yd065905 Presilha – Linha Metasa (KUHN)",
-    "Cod. Cotripal: ": 100115437,
-    "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/98489.png",
-    "COD. REF": "YD065905",
-    "LINHA": "Metasa (Khun)",
-    "APLICAÇÃO": ""
-}{
-    "Nome: ": "756213 Porca para Colheitadeira De Graos – Linha New Holland",
-    "Cod. Cotripal: ": 100649024,
-    "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/231138.png",
-    "COD. REF": "756213",
-    "LINHA": "New Holland",
-    "APLICAÇÃO": "Colheitadeira De Graos"
-}{
-    "Nome: ": "01090030 Movimentador Conduzido Da Mesa para Plantadeira – Linha Semeato",
-    "Cod. Cotripal: ": 101066059,
-    "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/64705.png",
-    "COD. REF": "1090030",
-    "LINHA": "Semeato",
-    "APLICAÇÃO": "Plantadeira"
-}{
-    "Nome: ": "046781 Protetor Plataforma para Colheitadeira De Graos – Linha Massey Ferguson",
-    "Cod. Cotripal: ": 100186710,
-    "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/25348.png",
-    "COD. REF": "46781",
-    "LINHA": "Massey Ferguson",
-    "APLICAÇÃO": "Colheitadeira De Graos"
-}
+[
+    {
+        "Nome: ": "Yd065905 Presilha – Linha Metasa (KUHN)",
+        "Cod. Cotripal: ": 100115437,
+        "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/98489.png",
+        "COD. REF": "YD065905",
+        "LINHA": "Metasa (Khun)",
+        "APLICAÇÃO": ""
+    },
+    {
+        "Nome: ": "756213 Porca para Colheitadeira De Graos – Linha New Holland",
+        "Cod. Cotripal: ": 100649024,
+        "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/231138.png",
+        "COD. REF": "756213",
+        "LINHA": "New Holland",
+        "APLICAÇÃO": "Colheitadeira De Graos"
+    },
+    {
+        "Nome: ": "01090030 Movimentador Conduzido Da Mesa para Plantadeira – Linha Semeato",
+        "Cod. Cotripal: ": 101066059,
+        "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/64705.png",
+        "COD. REF": "1090030",
+        "LINHA": "Semeato",
+        "APLICAÇÃO": "Plantadeira"
+    },
+    {
+        "Nome: ": "046781 Protetor Plataforma para Colheitadeira De Graos – Linha Massey Ferguson",
+        "Cod. Cotripal: ": 100186710,
+        "Imagem: ": "https://www.commersul.com.br/wp-content/uploads/2022/06/25348.png",
+        "COD. REF": "46781",
+        "LINHA": "Massey Ferguson",
+        "APLICAÇÃO": "Colheitadeira De Graos"
+    }
+]
