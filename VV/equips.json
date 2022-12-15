@@ -1,1158 +1,1241 @@
-{
-    "ID": "101297033",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "334972",
-            "equipamentos": [
-                "Rígida"
-            ]
-        }
-    ]
-}{
-    "ID": "100415797",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "H159615",
-            "equipamentos": [
-                "S550",
-                "S540",
-                "9750STS",
-                "9650STS",
-                "9570STS",
-                "9470STS"
-            ]
-        }
-    ]
-}{
-    "ID": "101297491",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "AH205918",
-            "equipamentos": [
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "101281421",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "320053, 373929",
-            "equipamentos": [
-                "1530",
-                "5050",
-                "4040"
-            ]
-        }
-    ]
-}{
-    "ID": "101286655",
-    "montadoras": [
-        {
-            "nomeMontadora": "",
-            "codOem": "758560, 759649",
-            "equipamentos": []
-        }
-    ]
-}{
-    "ID": "101297095",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84996278",
-            "equipamentos": [
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "100917932",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "47431001, 84275285, 84275287",
-            "equipamentos": [
-                "740CF"
-            ]
-        },
-        {
-            "nomeMontadora": "Case",
-            "codOem": "84275285, 84275287",
-            "equipamentos": [
-                "3020"
-            ]
-        }
-    ]
-}{
-    "ID": "101279633",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "388816",
-            "equipamentos": [
-                "1530",
-                "5050",
-                "4040",
-                "TC59",
-                "TC57",
-                "TC55",
-                "8055"
-            ]
-        }
-    ]
-}{
-    "ID": "100114621",
-    "montadoras": [
-        {
-            "nomeMontadora": "Ideal",
-            "codOem": "041841N1",
-            "equipamentos": [
-                "Rígida",
-                "Flexível"
-            ]
-        },
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "826823",
-            "equipamentos": [
-                "Superflex"
-            ]
-        },
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "041841N1",
-            "equipamentos": [
-                "Hiperflex"
-            ]
-        }
-    ]
-}{
-    "ID": "100237153",
-    "montadoras": [
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "055652N1",
-            "equipamentos": [
-                "Hiperflex"
-            ]
-        }
-    ]
-}{
-    "ID": "100409253",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "825270",
-            "equipamentos": [
-                "74C",
-                "72C",
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101280639",
-    "montadoras": [
-        {
-            "nomeMontadora": "",
-            "codOem": "365826, 80365826",
-            "equipamentos": []
-        }
-    ]
-}{
-    "ID": "101284989",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "466863",
-            "equipamentos": [
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101277738",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "AH89498",
-            "equipamentos": [
-                "Série 200"
-            ]
-        }
-    ]
-}{
-    "ID": "100161205",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "DQ31288",
-            "equipamentos": [
-                "Série 300"
-            ]
-        }
-    ]
-}{
-    "ID": "100886429",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "48171709, 87489671",
-            "equipamentos": [
-                "740CF"
-            ]
-        },
-        {
-            "nomeMontadora": "Case",
-            "codOem": "87489671",
-            "equipamentos": [
-                "3020"
-            ]
-        }
-    ]
-}{
-    "ID": "101297217",
-    "montadoras": [
-        {
-            "nomeMontadora": "Ideal",
-            "codOem": "112346410000",
-            "equipamentos": [
-                "Flexível"
-            ]
-        },
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "3319934M1",
-            "equipamentos": [
-                "Hiperflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101285030",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84995484",
-            "equipamentos": [
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101297255",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "823269",
-            "equipamentos": [
-                "74C",
-                "72C",
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101277974",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "Z37932",
-            "equipamentos": [
-                "7700",
-                "7500",
-                "7300",
-                "6300",
-                "4425",
-                "1175",
-                "1165",
-                "1155",
-                "1085",
-                "1075",
-                "1065",
-                "7200",
-                "7100",
-                "6200"
-            ]
-        }
-    ]
-}{
-    "ID": "101296975",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "H153329",
-            "equipamentos": [
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "100018295",
-    "montadoras": [
-        {
-            "nomeMontadora": "Ideal",
-            "codOem": "112346481100",
-            "equipamentos": [
-                "Flexível"
-            ]
-        },
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "3468151M91",
-            "equipamentos": [
-                "Flexível"
-            ]
-        }
-    ]
-}{
-    "ID": "102697870",
-    "montadoras": [
-        {
-            "nomeMontadora": "Case",
-            "codOem": "371658A1",
-            "equipamentos": [
-                "1020",
-                "1010"
-            ]
-        },
-        {
-            "nomeMontadora": "",
-            "codOem": "CV99",
-            "equipamentos": []
-        }
-    ]
-}{
-    "ID": "101297453",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84997052",
-            "equipamentos": [
-                "TC59"
-            ]
-        }
-    ]
-}{
-    "ID": "100248692",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "DQ32376",
-            "equipamentos": [
-                "Arrozeira rígida"
-            ]
-        }
-    ]
-}{
-    "ID": "100024067",
-    "montadoras": [
-        {
-            "nomeMontadora": "Massey Ferguson",
-            "codOem": "886727M1, 886727M4",
-            "equipamentos": [
-                "290 Advanced",
-                "290"
-            ]
-        }
-    ]
-}{
-    "ID": "100696028",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "87702973",
-            "equipamentos": [
-                "Draper 880CF",
-                "740CF"
-            ]
-        },
-        {
-            "nomeMontadora": "Case",
-            "codOem": "87702973",
-            "equipamentos": [
-                "Draper 3162",
-                "Draper 3152",
-                "3020"
-            ]
-        }
-    ]
-}{
-    "ID": "101277356",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "354787",
-            "equipamentos": [
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101297309",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "825081, 84991651",
-            "equipamentos": [
-                "TC57",
-                "TC55"
-            ]
-        }
-    ]
-}{
-    "ID": "102194232",
-    "montadoras": [
-        {
-            "nomeMontadora": "MacDon",
-            "codOem": "MD129024",
-            "equipamentos": []
-        },
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "48033399, 48033403",
-            "equipamentos": [
-                "Draper 86C"
-            ]
-        },
-        {
-            "nomeMontadora": "Case",
-            "codOem": "48033399, 48033403",
-            "equipamentos": [
-                "Draper 2152",
-                "Draper 2142",
-                "Draper 2162"
-            ]
-        }
-    ]
-}{
-    "ID": "100792911",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "H172357, H215588",
-            "equipamentos": [
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "100369762",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84982472",
-            "equipamentos": [
-                "74C",
-                "72C"
-            ]
-        }
-    ]
-}{
-    "ID": "100102123",
-    "montadoras": [
-        {
-            "nomeMontadora": "Massey Ferguson",
-            "codOem": "3148071M1",
-            "equipamentos": [
-                "5290",
-                "5285",
-                "5275",
-                "680",
-                "660",
-                "650",
-                "640",
-                "630",
-                "620",
-                "610",
-                "299",
-                "298",
-                "297",
-                "292",
-                "290",
-                "283",
-                "275",
-                "265",
-                "250"
-            ]
-        }
-    ]
-}{
-    "ID": "100415803",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "H159616",
-            "equipamentos": [
-                "S550",
-                "S540",
-                "9750STS",
-                "9650STS",
-                "9570STS",
-                "9470STS"
-            ]
-        }
-    ]
-}{
-    "ID": "100373899",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "DQ65777",
-            "equipamentos": [
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "101297279",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "823271",
-            "equipamentos": [
-                "74C",
-                "72C",
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101296951",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "Z45994",
-            "equipamentos": [
-                "4425",
-                "7200",
-                "7100",
-                "6200"
-            ]
-        }
-    ]
-}{
-    "ID": "102390443",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "H158342",
-            "equipamentos": [
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "100227031",
-    "montadoras": [
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "055651N1",
-            "equipamentos": [
-                "Hiperflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101286914",
-    "montadoras": [
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "1480679M91",
-            "equipamentos": [
-                "MF5650"
-            ]
-        }
-    ]
-}{
-    "ID": "100649703",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84990984",
-            "equipamentos": [
-                "TC5070",
-                "CS660",
-                "TC5090",
-                "TC57"
-            ]
-        }
-    ]
-}{
-    "ID": "100409123",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "422452",
-            "equipamentos": [
-                "TC59",
-                "TC57",
-                "TC55"
-            ]
-        }
-    ]
-}{
-    "ID": "101297101",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84980894, 84996279",
-            "equipamentos": [
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "100018325",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "DQ04462, DQ23611",
-            "equipamentos": [
-                "Série 200"
-            ]
-        }
-    ]
-}{
-    "ID": "101296920",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "758401",
-            "equipamentos": [
-                "TC59",
-                "TC57",
-                "TC55",
-                "8055",
-                "8040"
-            ]
-        }
-    ]
-}{
-    "ID": "100018318",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "756133, 826805",
-            "equipamentos": [
-                "Rígida",
-                "Flexível"
-            ]
-        }
-    ]
-}{
-    "ID": "104428205",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84329186",
-            "equipamentos": [
-                "74C"
-            ]
-        }
-    ]
-}{
-    "ID": "100236118",
-    "montadoras": [
-        {
-            "nomeMontadora": "Case",
-            "codOem": "112074A1",
-            "equipamentos": [
-                "1020",
-                "1010"
-            ]
-        }
-    ]
-}{
-    "ID": "101284927",
-    "montadoras": [
-        {
-            "nomeMontadora": "",
-            "codOem": "365963",
-            "equipamentos": []
-        }
-    ]
-}{
-    "ID": "101287508",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "CQ22416",
-            "equipamentos": [
-                "Série 300"
-            ]
-        }
-    ]
-}{
-    "ID": "101296838",
-    "montadoras": [
-        {
-            "nomeMontadora": "Ideal",
-            "codOem": "111306023606",
-            "equipamentos": [
-                "Rígida"
-            ]
-        },
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "379720",
-            "equipamentos": [
-                "Rígida"
-            ]
-        },
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "3318953M91",
-            "equipamentos": [
-                "Arrozeira rígida"
-            ]
-        },
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "AD03401",
-            "equipamentos": [
-                "Arrozeira rígida"
-            ]
-        }
-    ]
-}{
-    "ID": "101280745",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "CQ02747",
-            "equipamentos": [
-                "SLC2200",
-                "SLC2000",
-                "6200"
-            ]
-        }
-    ]
-}{
-    "ID": "101280813",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "Z10884",
-            "equipamentos": [
-                "7200",
-                "6200"
-            ]
-        }
-    ]
-}{
-    "ID": "100143515",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "DQ17360",
-            "equipamentos": [
-                "Série 200"
-            ]
-        }
-    ]
-}{
-    "ID": "101296968",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "756947",
-            "equipamentos": [
-                "CS6090",
-                "CS6080",
-                "CS660",
-                "TC5090",
-                "TC59",
-                "TC57",
-                "TC55",
-                "8055",
-                "8040"
-            ]
-        }
-    ]
-}{
-    "ID": "101297286",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "823290",
-            "equipamentos": [
-                "74C",
-                "72C",
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "100023831",
-    "montadoras": [
-        {
-            "nomeMontadora": "Massey Ferguson",
-            "codOem": "898355M92",
-            "equipamentos": [
-                "292",
-                "290",
-                "283",
-                "275",
-                "265"
-            ]
-        }
-    ]
-}{
-    "ID": "100021257",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "280058",
-            "equipamentos": [
-                "1530",
-                "5050",
-                "4040"
-            ]
-        }
-    ]
-}{
-    "ID": "101276915",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "260169",
-            "equipamentos": [
-                "1530",
-                "5050",
-                "4040"
-            ]
-        }
-    ]
-}{
-    "ID": "101280646",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "372831",
-            "equipamentos": [
-                "1530",
-                "5050",
-                "4040"
-            ]
-        }
-    ]
-}{
-    "ID": "100356533",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "DQ65444",
-            "equipamentos": [
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "100102789",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "821784, 84992425, 84998682, 87037972",
-            "equipamentos": [
-                "74C",
-                "72C",
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "101292816",
-    "montadoras": [
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "3468154M1",
-            "equipamentos": [
-                "Flexível"
-            ]
-        }
-    ]
-}{
-    "ID": "100110777",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84992055",
-            "equipamentos": [
-                "TC5070",
-                "TC5090",
-                "TC59",
-                "TC57",
-                "TC55"
-            ]
-        }
-    ]
-}{
-    "ID": "101297415",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "AH218547, H218949",
-            "equipamentos": [
-                "Série 600 Draper",
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "101276083",
-    "montadoras": [
-        {
-            "nomeMontadora": "",
-            "codOem": "423683, 80423683",
-            "equipamentos": []
-        }
-    ]
-}{
-    "ID": "100207200",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84992436",
-            "equipamentos": [
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "103809685",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84326718",
-            "equipamentos": [
-                "74C"
-            ]
-        }
-    ]
-}{
-    "ID": "101297477",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84995653",
-            "equipamentos": [
-                "TC59"
-            ]
-        }
-    ]
-}{
-    "ID": "101281988",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "CQ27633, Z11442",
-            "equipamentos": [
-                "8700",
-                "8500",
-                "7700",
-                "7500",
-                "7300",
-                "6300",
-                "4425",
-                "1570",
-                "1550",
-                "1470",
-                "1450",
-                "1185",
-                "1175",
-                "1170",
-                "1165",
-                "1085",
-                "1075",
-                "1065",
-                "7200",
-                "7100",
-                "6200"
-            ]
-        }
-    ]
-}{
-    "ID": "100024241",
-    "montadoras": [
-        {
-            "nomeMontadora": "AGCO",
-            "codOem": "3225347M1",
-            "equipamentos": [
-                "MF5650"
-            ]
-        }
-    ]
-}{
-    "ID": "101281919",
-    "montadoras": [
-        {
-            "nomeMontadora": "",
-            "codOem": "280035",
-            "equipamentos": []
-        }
-    ]
-}{
-    "ID": "100017236",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "309197",
-            "equipamentos": [
-                "Rígida"
-            ]
-        },
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "H130478, H84413",
-            "equipamentos": [
-                "Arrozeira rígida"
-            ]
-        }
-    ]
-}{
-    "ID": "100839845",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "87470188",
-            "equipamentos": [
-                "740CF"
-            ]
-        },
-        {
-            "nomeMontadora": "Case",
-            "codOem": "87470188",
-            "equipamentos": [
-                "3020"
-            ]
-        }
-    ]
-}{
-    "ID": "102390344",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "AH226928",
-            "equipamentos": [
-                "Série 600 Draper",
-                "Série 600"
-            ]
-        }
-    ]
-}{
-    "ID": "100089837",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "826808, 84998752",
-            "equipamentos": [
-                "74C",
-                "72C",
-                "Superflex"
-            ]
-        }
-    ]
-}{
-    "ID": "100310313",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "DQ31277",
-            "equipamentos": [
-                "Série 300"
-            ]
-        }
-    ]
-}{
-    "ID": "100091151",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "826807",
-            "equipamentos": [
-                "Flexível"
-            ]
-        }
-    ]
-}{
-    "ID": "100094138",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "387449, 80387449",
-            "equipamentos": [
-                "CS6090",
-                "CS6080",
-                "TC5070",
-                "CS660",
-                "8070",
-                "8060",
-                "TC5040",
-                "TC5090",
-                "TC59",
-                "TC57",
-                "TC55"
-            ]
-        }
-    ]
-}{
-    "ID": "101279664",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "423662, 80423662",
-            "equipamentos": [
-                "TC5070",
-                "TC5040",
-                "TC57",
-                "TC55",
-                "8055",
-                "8040"
-            ]
-        }
-    ]
-}{
-    "ID": "101297125",
-    "montadoras": [
-        {
-            "nomeMontadora": "New Holland",
-            "codOem": "84991906",
-            "equipamentos": [
-                "TC59",
-                "TC57",
-                "TC55"
-            ]
-        }
-    ]
-}{
-    "ID": "101280769",
-    "montadoras": [
-        {
-            "nomeMontadora": "John Deere",
-            "codOem": "CQ08996",
-            "equipamentos": [
-                "8700",
-                "8500",
-                "7700",
-                "7500",
-                "7300",
-                "6300",
-                "1570",
-                "1550",
-                "1470",
-                "1450",
-                "1185",
-                "1175",
-                "1170",
-                "1165",
-                "7100",
-                "6200"
-            ]
-        }
-    ]
-}
+[
+    {
+        "ID": "101297033",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "334972",
+                "equipamentos": [
+                    "Rígida"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100415797",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "H159615",
+                "equipamentos": [
+                    "S550",
+                    "S540",
+                    "9750STS",
+                    "9650STS",
+                    "9570STS",
+                    "9470STS"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297491",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "AH205918",
+                "equipamentos": [
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101281421",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "320053, 373929",
+                "equipamentos": [
+                    "1530",
+                    "5050",
+                    "4040"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101286655",
+        "montadoras": [
+            {
+                "nomeMontadora": "",
+                "codOem": "758560, 759649",
+                "equipamentos": []
+            }
+        ]
+    },
+    {
+        "ID": "101297095",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84996278",
+                "equipamentos": [
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100917932",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "47431001, 84275285, 84275287",
+                "equipamentos": [
+                    "740CF"
+                ]
+            },
+            {
+                "nomeMontadora": "Case",
+                "codOem": "84275285, 84275287",
+                "equipamentos": [
+                    "3020"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101279633",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "388816",
+                "equipamentos": [
+                    "1530",
+                    "5050",
+                    "4040",
+                    "TC59",
+                    "TC57",
+                    "TC55",
+                    "8055"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100114621",
+        "montadoras": [
+            {
+                "nomeMontadora": "Ideal",
+                "codOem": "041841N1",
+                "equipamentos": [
+                    "Rígida",
+                    "Flexível"
+                ]
+            },
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "826823",
+                "equipamentos": [
+                    "Superflex"
+                ]
+            },
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "041841N1",
+                "equipamentos": [
+                    "Hiperflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100237153",
+        "montadoras": [
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "055652N1",
+                "equipamentos": [
+                    "Hiperflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100409253",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "825270",
+                "equipamentos": [
+                    "74C",
+                    "72C",
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101280639",
+        "montadoras": [
+            {
+                "nomeMontadora": "",
+                "codOem": "365826, 80365826",
+                "equipamentos": []
+            }
+        ]
+    },
+    {
+        "ID": "101284989",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "466863",
+                "equipamentos": [
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101277738",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "AH89498",
+                "equipamentos": [
+                    "Série 200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100161205",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "DQ31288",
+                "equipamentos": [
+                    "Série 300"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100886429",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "48171709, 87489671",
+                "equipamentos": [
+                    "740CF"
+                ]
+            },
+            {
+                "nomeMontadora": "Case",
+                "codOem": "87489671",
+                "equipamentos": [
+                    "3020"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297217",
+        "montadoras": [
+            {
+                "nomeMontadora": "Ideal",
+                "codOem": "112346410000",
+                "equipamentos": [
+                    "Flexível"
+                ]
+            },
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "3319934M1",
+                "equipamentos": [
+                    "Hiperflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101285030",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84995484",
+                "equipamentos": [
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297255",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "823269",
+                "equipamentos": [
+                    "74C",
+                    "72C",
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101277974",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "Z37932",
+                "equipamentos": [
+                    "7700",
+                    "7500",
+                    "7300",
+                    "6300",
+                    "4425",
+                    "1175",
+                    "1165",
+                    "1155",
+                    "1085",
+                    "1075",
+                    "1065",
+                    "7200",
+                    "7100",
+                    "6200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101296975",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "H153329",
+                "equipamentos": [
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100018295",
+        "montadoras": [
+            {
+                "nomeMontadora": "Ideal",
+                "codOem": "112346481100",
+                "equipamentos": [
+                    "Flexível"
+                ]
+            },
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "3468151M91",
+                "equipamentos": [
+                    "Flexível"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "102697870",
+        "montadoras": [
+            {
+                "nomeMontadora": "Case",
+                "codOem": "371658A1",
+                "equipamentos": [
+                    "1020",
+                    "1010"
+                ]
+            },
+            {
+                "nomeMontadora": "",
+                "codOem": "CV99",
+                "equipamentos": []
+            }
+        ]
+    },
+    {
+        "ID": "101297453",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84997052",
+                "equipamentos": [
+                    "TC59"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100248692",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "DQ32376",
+                "equipamentos": [
+                    "Arrozeira rígida"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100024067",
+        "montadoras": [
+            {
+                "nomeMontadora": "Massey Ferguson",
+                "codOem": "886727M1, 886727M4",
+                "equipamentos": [
+                    "290 Advanced",
+                    "290"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100696028",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "87702973",
+                "equipamentos": [
+                    "Draper 880CF",
+                    "740CF"
+                ]
+            },
+            {
+                "nomeMontadora": "Case",
+                "codOem": "87702973",
+                "equipamentos": [
+                    "Draper 3162",
+                    "Draper 3152",
+                    "3020"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101277356",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "354787",
+                "equipamentos": [
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297309",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "825081, 84991651",
+                "equipamentos": [
+                    "TC57",
+                    "TC55"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "102194232",
+        "montadoras": [
+            {
+                "nomeMontadora": "MacDon",
+                "codOem": "MD129024",
+                "equipamentos": []
+            },
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "48033399, 48033403",
+                "equipamentos": [
+                    "Draper 86C"
+                ]
+            },
+            {
+                "nomeMontadora": "Case",
+                "codOem": "48033399, 48033403",
+                "equipamentos": [
+                    "Draper 2152",
+                    "Draper 2142",
+                    "Draper 2162"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100792911",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "H172357, H215588",
+                "equipamentos": [
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100369762",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84982472",
+                "equipamentos": [
+                    "74C",
+                    "72C"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100102123",
+        "montadoras": [
+            {
+                "nomeMontadora": "Massey Ferguson",
+                "codOem": "3148071M1",
+                "equipamentos": [
+                    "5290",
+                    "5285",
+                    "5275",
+                    "680",
+                    "660",
+                    "650",
+                    "640",
+                    "630",
+                    "620",
+                    "610",
+                    "299",
+                    "298",
+                    "297",
+                    "292",
+                    "290",
+                    "283",
+                    "275",
+                    "265",
+                    "250"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100415803",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "H159616",
+                "equipamentos": [
+                    "S550",
+                    "S540",
+                    "9750STS",
+                    "9650STS",
+                    "9570STS",
+                    "9470STS"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100373899",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "DQ65777",
+                "equipamentos": [
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297279",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "823271",
+                "equipamentos": [
+                    "74C",
+                    "72C",
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101296951",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "Z45994",
+                "equipamentos": [
+                    "4425",
+                    "7200",
+                    "7100",
+                    "6200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "102390443",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "H158342",
+                "equipamentos": [
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100227031",
+        "montadoras": [
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "055651N1",
+                "equipamentos": [
+                    "Hiperflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101286914",
+        "montadoras": [
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "1480679M91",
+                "equipamentos": [
+                    "MF5650"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100649703",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84990984",
+                "equipamentos": [
+                    "TC5070",
+                    "CS660",
+                    "TC5090",
+                    "TC57"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100409123",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "422452",
+                "equipamentos": [
+                    "TC59",
+                    "TC57",
+                    "TC55"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297101",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84980894, 84996279",
+                "equipamentos": [
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100018325",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "DQ04462, DQ23611",
+                "equipamentos": [
+                    "Série 200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101296920",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "758401",
+                "equipamentos": [
+                    "TC59",
+                    "TC57",
+                    "TC55",
+                    "8055",
+                    "8040"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100018318",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "756133, 826805",
+                "equipamentos": [
+                    "Rígida",
+                    "Flexível"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "104428205",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84329186",
+                "equipamentos": [
+                    "74C"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100236118",
+        "montadoras": [
+            {
+                "nomeMontadora": "Case",
+                "codOem": "112074A1",
+                "equipamentos": [
+                    "1020",
+                    "1010"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101284927",
+        "montadoras": [
+            {
+                "nomeMontadora": "",
+                "codOem": "365963",
+                "equipamentos": []
+            }
+        ]
+    },
+    {
+        "ID": "101287508",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "CQ22416",
+                "equipamentos": [
+                    "Série 300"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101296838",
+        "montadoras": [
+            {
+                "nomeMontadora": "Ideal",
+                "codOem": "111306023606",
+                "equipamentos": [
+                    "Rígida"
+                ]
+            },
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "379720",
+                "equipamentos": [
+                    "Rígida"
+                ]
+            },
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "3318953M91",
+                "equipamentos": [
+                    "Arrozeira rígida"
+                ]
+            },
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "AD03401",
+                "equipamentos": [
+                    "Arrozeira rígida"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101280745",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "CQ02747",
+                "equipamentos": [
+                    "SLC2200",
+                    "SLC2000",
+                    "6200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101280813",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "Z10884",
+                "equipamentos": [
+                    "7200",
+                    "6200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100143515",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "DQ17360",
+                "equipamentos": [
+                    "Série 200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101296968",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "756947",
+                "equipamentos": [
+                    "CS6090",
+                    "CS6080",
+                    "CS660",
+                    "TC5090",
+                    "TC59",
+                    "TC57",
+                    "TC55",
+                    "8055",
+                    "8040"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297286",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "823290",
+                "equipamentos": [
+                    "74C",
+                    "72C",
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100023831",
+        "montadoras": [
+            {
+                "nomeMontadora": "Massey Ferguson",
+                "codOem": "898355M92",
+                "equipamentos": [
+                    "292",
+                    "290",
+                    "283",
+                    "275",
+                    "265"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100021257",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "280058",
+                "equipamentos": [
+                    "1530",
+                    "5050",
+                    "4040"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101276915",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "260169",
+                "equipamentos": [
+                    "1530",
+                    "5050",
+                    "4040"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101280646",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "372831",
+                "equipamentos": [
+                    "1530",
+                    "5050",
+                    "4040"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100356533",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "DQ65444",
+                "equipamentos": [
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100102789",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "821784, 84992425, 84998682, 87037972",
+                "equipamentos": [
+                    "74C",
+                    "72C",
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101292816",
+        "montadoras": [
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "3468154M1",
+                "equipamentos": [
+                    "Flexível"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100110777",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84992055",
+                "equipamentos": [
+                    "TC5070",
+                    "TC5090",
+                    "TC59",
+                    "TC57",
+                    "TC55"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297415",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "AH218547, H218949",
+                "equipamentos": [
+                    "Série 600 Draper",
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101276083",
+        "montadoras": [
+            {
+                "nomeMontadora": "",
+                "codOem": "423683, 80423683",
+                "equipamentos": []
+            }
+        ]
+    },
+    {
+        "ID": "100207200",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84992436",
+                "equipamentos": [
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "103809685",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84326718",
+                "equipamentos": [
+                    "74C"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297477",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84995653",
+                "equipamentos": [
+                    "TC59"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101281988",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "CQ27633, Z11442",
+                "equipamentos": [
+                    "8700",
+                    "8500",
+                    "7700",
+                    "7500",
+                    "7300",
+                    "6300",
+                    "4425",
+                    "1570",
+                    "1550",
+                    "1470",
+                    "1450",
+                    "1185",
+                    "1175",
+                    "1170",
+                    "1165",
+                    "1085",
+                    "1075",
+                    "1065",
+                    "7200",
+                    "7100",
+                    "6200"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100024241",
+        "montadoras": [
+            {
+                "nomeMontadora": "AGCO",
+                "codOem": "3225347M1",
+                "equipamentos": [
+                    "MF5650"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101281919",
+        "montadoras": [
+            {
+                "nomeMontadora": "",
+                "codOem": "280035",
+                "equipamentos": []
+            }
+        ]
+    },
+    {
+        "ID": "100017236",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "309197",
+                "equipamentos": [
+                    "Rígida"
+                ]
+            },
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "H130478, H84413",
+                "equipamentos": [
+                    "Arrozeira rígida"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100839845",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "87470188",
+                "equipamentos": [
+                    "740CF"
+                ]
+            },
+            {
+                "nomeMontadora": "Case",
+                "codOem": "87470188",
+                "equipamentos": [
+                    "3020"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "102390344",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "AH226928",
+                "equipamentos": [
+                    "Série 600 Draper",
+                    "Série 600"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100089837",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "826808, 84998752",
+                "equipamentos": [
+                    "74C",
+                    "72C",
+                    "Superflex"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100310313",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "DQ31277",
+                "equipamentos": [
+                    "Série 300"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100091151",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "826807",
+                "equipamentos": [
+                    "Flexível"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "100094138",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "387449, 80387449",
+                "equipamentos": [
+                    "CS6090",
+                    "CS6080",
+                    "TC5070",
+                    "CS660",
+                    "8070",
+                    "8060",
+                    "TC5040",
+                    "TC5090",
+                    "TC59",
+                    "TC57",
+                    "TC55"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101279664",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "423662, 80423662",
+                "equipamentos": [
+                    "TC5070",
+                    "TC5040",
+                    "TC57",
+                    "TC55",
+                    "8055",
+                    "8040"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101297125",
+        "montadoras": [
+            {
+                "nomeMontadora": "New Holland",
+                "codOem": "84991906",
+                "equipamentos": [
+                    "TC59",
+                    "TC57",
+                    "TC55"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "101280769",
+        "montadoras": [
+            {
+                "nomeMontadora": "John Deere",
+                "codOem": "CQ08996",
+                "equipamentos": [
+                    "8700",
+                    "8500",
+                    "7700",
+                    "7500",
+                    "7300",
+                    "6300",
+                    "1570",
+                    "1550",
+                    "1470",
+                    "1450",
+                    "1185",
+                    "1175",
+                    "1170",
+                    "1165",
+                    "7100",
+                    "6200"
+                ]
+            }
+        ]
+    }
+]
